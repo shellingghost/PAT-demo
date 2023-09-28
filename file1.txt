@@ -1,2 +1,4 @@
 
-Troy
+John Doe
+5551234567
+Street st.
